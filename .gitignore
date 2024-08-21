@@ -1,0 +1,10 @@
+node_modules
+coverage
+build
+typings/
+.env
+*.key
+*.key.pub
+*.tgz
+*~
+.*.sw?
